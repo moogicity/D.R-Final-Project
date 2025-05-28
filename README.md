@@ -22,6 +22,6 @@ My portfolio site includes:
 📂 Links
 
 🔗 GitHub Repository: 
-🌐 Live Site on GitHub Pages: 
+🌐 Live Site on GitHub Pages:  https://moogicity.github.io/D.R-Final-Project/
 
 Thanks for visiting my portfolio!
