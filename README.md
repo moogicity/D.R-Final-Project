@@ -17,7 +17,9 @@ My portfolio site includes:
 
 😺 Stop Watch: This is a simple web-based stopwatch application built using HTML, CSS, and JavaScript. It features a fun Garfield-themed background and allows users to start, stop, and reset a timer.
 
-🥁 Drum Kit Sound Board A fun and interactive sound board that plays different drum sounds when users click buttons or press keyboard keys. This project introduced me to working with event listeners and audio elements in JavaScript.
+📋 To-do List: This website lets you add tasks dated with month and day. You can prioritize tasks, move them to the top of the list, or delete tasks when they’re done. 
+
+🎲 Password Generator: Click on a button and it will generate you two random passwords!
 
 📂 Links
 
