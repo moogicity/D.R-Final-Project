@@ -5,9 +5,6 @@
   grid-template-areas:
     "one one"
     "two two"
-    "three three"
-    "four four"
-    "eight nine";
   gap: 12px;
   padding: 20px;
   color: #fff; 
