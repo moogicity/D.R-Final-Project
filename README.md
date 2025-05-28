@@ -15,7 +15,7 @@ My portfolio site includes:
 
 🃏 Blackjack: A simplified version of the classic casino game built with HTML, CSS, and JavaScript. The player starts with two random cards and can choose to draw additional cards to get as close to 21 as possible without going over. The game dynamically updates the card values, sum, and win/loss messages in real-time. Includes personalized player name functionality and a themed visual design with a poker table background for an immersive experience.
 
-✍️ Quote & Poem Generator This creative tool generates random quotes and short poems. It gave me experience with using arrays, JavaScript functions, and DOM manipulation to dynamically update page content.
+😺 Stop Watch: This is a simple web-based stopwatch application built using HTML, CSS, and JavaScript. It features a fun Garfield-themed background and allows users to start, stop, and reset a timer.
 
 🥁 Drum Kit Sound Board A fun and interactive sound board that plays different drum sounds when users click buttons or press keyboard keys. This project introduced me to working with event listeners and audio elements in JavaScript.
 
