@@ -1,1 +1,44 @@
+body {
+  font-family: "Times New Roman", serif;
+  background-image: url(https://i.pinimg.com/736x/16/ef/98/16ef98c731c4cbae1368201db24357bb.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: purple;
+  margin: 0;
+  padding: 20px;
+}
 
+.wrapper {
+  max-width: 900px;
+  margin: auto;
+}
+
+.project-container {
+  background-color: #341539;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+}
+
+h1 {
+  margin-top: 0;
+  color: #772F9B;
+}
+
+h2 {
+  font-weight: normal;
+  margin-top: 10px;
+  color: #E6D9F2;
+}
+
+a {
+  color: purple;
+  font-weight: bold;
+  display: inline-block;
+  margin-bottom: 10px;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #B045E5;
+}
